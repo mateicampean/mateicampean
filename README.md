@@ -1,4 +1,4 @@
-# Matei Câmpean
+# Matei Câmpean 
 
 **AI Builder · International Business Administration @ Tilburg University**
 
@@ -9,7 +9,7 @@ conversational voice agents, and internal tools for e-commerce operators.
 First-year IBA student with a computer-science background (C++), driven to build AI
 applications that make everyday work genuinely better.
 
-### What I'm building
+### What I'm building 
 
 | Project | What it is |
 |---------|-----------|
